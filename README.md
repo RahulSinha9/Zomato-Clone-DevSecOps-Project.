@@ -1,1 +1,1 @@
-# Zomato-Clone-DevSecOps-Project.
+# Zomato-Clone
